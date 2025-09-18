@@ -41,12 +41,6 @@ Welcome to my GitHub profile! Here you’ll find my repositories, projects, and 
 
 ---
 
-## 📈 GitHub Stats
-
-![Chahine's GitHub stats](https://github-readme-stats.vercel.app/api?username=XhunterMns&show_icons=true&theme=tokyonight)  
-
----
-
 ## 🎯 Goals
 
 - 🌟 Contribute more to open-source projects  
