@@ -34,7 +34,7 @@ Welcome to my GitHub profile! Here you’ll find my repositories, projects, and 
 
 ## 📫 Contact Me
 
-- 📧 Email: **chahinemansouri@gmail.com**  
+- 📧 Email: **chahinemn1@gmail.com**  
 - 🌐 Portfolio: [*(visit)*](https://xhuntermns.github.io/chahine-portfolio/)  
 - 💼 LinkedIn: [linkedin.com/in/chahine-mansouri](https://linkedin.com/in/chahine-mansouri)  
 - 🐦 Twitter/X: *@XhunterMns*  
