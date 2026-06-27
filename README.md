@@ -8,8 +8,8 @@ Welcome to my GitHub profile! Here you’ll find my repositories, projects, and 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python 🐍, JavaScript 🌐, Java ☕, C/C++ 💻, PHP 🐘  
-- **Frameworks:** Angular ⚡, React ⚛️, Spring Boot 🍃, Django 🌟  
-- **Tools & Platforms:** Git 🦸, Docker 🐳, Node.js 🚀, MySQL 🗄️, Nginx 🌐, VSCode 💻, Linux 🐧  
+- **Frameworks:** Angular ⚡, React ⚛️, Spring Boot 🍃, node/expressjs 🌟  
+- **Tools & Platforms:** Git 🦸, Docker 🐳, postgresql 🚀, MySQL 🗄️, Nginx 🌐, VSCode 💻, Linux 🐧  
 
 ---
 
@@ -17,20 +17,11 @@ Welcome to my GitHub profile! Here you’ll find my repositories, projects, and 
 
 - 👨‍💻 Profession: **Computer Engineering Student & Software Developer**  
 - 🌍 Location: Tunisia  
-- 📚 Interests: **AI & Machine Learning 🤖, Cybersecurity 🔒, Networking 🌐, Open Source Contributions 🌍**  
+- 📚 Interests: **AI & Machine Learning 🤖, Cybersecurity 🔒, Networking 🌐, Developper**  
 - 🎓 Education: **Computer Engineering Cycle** at *École Supérieure Polytechnique*  
 
 ---
 
-## 📂 Featured Projects
-
-- **E-learning Platform** 🎓 → Full-stack web platform with students, teachers, and admins, including payments, sessions, and complaints.  
-- **Chat App (Chat-Tun)** 💬 → Node.js + Socket.io real-time chat with random pairing (like Omegle).  
-- **PDF Reports Generator** 📑 → Java + OpenPDF/iText for styled and structured reports with Arabic/RTL support.  
-- **Smart Home Simulation** 🏠 → Java project with sensors, actuators, and automation rules.  
-- **Bank Account Manager** 💰 → C program with linked lists to manage accounts and transactions.  
-
----
 
 ## 📫 Contact Me
 
@@ -41,7 +32,6 @@ Welcome to my GitHub profile! Here you’ll find my repositories, projects, and 
 
 ---
 
-## 🎯 Goals
 
 - 🌟 Contribute more to open-source projects  
 - 🛠️ Build innovative and impactful software solutions  
